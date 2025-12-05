@@ -1,8 +1,8 @@
 # Ciao sono ...
 
-## Studente dell'isiss Scarpa di Motta
+## Studente dell'ITS Alto Adriatico di Pordenone
 
 I miei interessi sono: 
-- Brawl stars
-- I treni
-- Gli estintori 
+- La programmazione
+- La cucina
+- La musica
